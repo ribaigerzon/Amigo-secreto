@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación web simple que permite a los usuarios crear una lista de amigos y realizar un sorteo aleatorio para determinar quién es el "amigo secreto" de cada persona.
 
+El desarrollo de esta aplicación se llevó a cabo con Trello como herramienta de administración: https://trello.com/invite/b/67ba72c219f24af56a46403d/ATTI2e53328427b10bc6cf78916b9e59d3f3F83127F0/trello-challenge-amigo-secreto-esp
+
 ## Funcionalidades
 
 * **Agregar nombres:** Los usuarios pueden ingresar nombres de amigos en un campo de texto y agregarlos a una lista visible en la página.
